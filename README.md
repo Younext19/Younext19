@@ -1,6 +1,6 @@
 ### Hi there 👋,  HADDAM Younes 20 Y.O
 #### Mobile Developer ( React Native )
-![Mobile Developer ( React Native )](https://storage.googleapis.com/swag-swami-media/2019/08/eat-sleep-code.jpg)
+
 
 Linux Lover <3, Django Enthusiast
 
