@@ -6,7 +6,7 @@ Linux Lover <3, Django Enthusiast
 Skills: HTML / CSS / JAVASCRIPT / REACT / React NATIVE / Kotlin / Java / Python / Django / Linux
 
 - 🔭 I’m currently working on Private Project XD 
-- 🌱 I’m currently learning  
+- 🌱 I’m currently learning Software Architecture
 - 👯 I’m looking to collaborate on Any Project :) 
 - 💬 Ask me about : Web Developement / Mobile Dev 
 - 📫 How to reach me: haddamyounes5@gmail.com 
