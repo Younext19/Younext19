@@ -1,6 +1,5 @@
 ### Hi there 👋,  HADDAM Younes 21 Y.O
 #### Full Stack Developer
-<a href="https://app.daily.dev/youneshaddam"><img src="https://api.daily.dev/devcards/b9eccc31acd4479eac25d3bf4a985f7c.png?r=qii" width="400" alt="Younes Haddam's Dev Card"/></a>
 Linux Lover <3, Django Enthusiast
 
 Skills: HTML / CSS / JAVASCRIPT / REACT / React NATIVE / Kotlin / Java / Python / Django / Linux
@@ -13,9 +12,8 @@ Skills: HTML / CSS / JAVASCRIPT / REACT / React NATIVE / Kotlin / Java / Python 
 
 
 
+<a href="https://app.daily.dev/youneshaddam"><img src="https://api.daily.dev/devcards/b9eccc31acd4479eac25d3bf4a985f7c.png?r=qii" width="400" alt="Younes Haddam's Dev Card"/></a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=younext19&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=younext19)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/younext19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/younes-haddam-754b5019b/)  
+
