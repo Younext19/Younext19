@@ -1,6 +1,6 @@
 ### Hi there 👋,  HADDAM Younes 21 Y.O
 #### Full Stack Developer
-
+<a href="https://app.daily.dev/youneshaddam"><img src="https://api.daily.dev/devcards/b9eccc31acd4479eac25d3bf4a985f7c.png?r=qii" width="400" alt="Younes Haddam's Dev Card"/></a>
 Linux Lover <3, Django Enthusiast
 
 Skills: HTML / CSS / JAVASCRIPT / REACT / React NATIVE / Kotlin / Java / Python / Django / Linux
