@@ -11,9 +11,5 @@ Skills: HTML / CSS / JAVASCRIPT / REACT / React NATIVE / Kotlin / Java / Python 
 - 📫 How to reach me: haddamyounes5@gmail.com 
 
 
-
-<a href="https://app.daily.dev/youneshaddam"><img src="https://api.daily.dev/devcards/b9eccc31acd4479eac25d3bf4a985f7c.png?r=qii" width="400" alt="Younes Haddam's Dev Card"/></a>
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/younext19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/younes-haddam-754b5019b/)  
 
