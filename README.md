@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Younes</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on [May](https://www.may.app/)
+- 🔭 I’m currently working on S30
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
